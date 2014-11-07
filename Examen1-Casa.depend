@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1415357642 source:/home/darkwavve/Documentos/Progra3/SDLMiniRPG-master/Examen1-Casa/main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1415360002 source:/home/darkwavve/Documentos/Progra3/Examen1-Casa/main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
